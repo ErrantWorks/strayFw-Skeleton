@@ -13,4 +13,12 @@ if (false === defined('STRAY_ENV')) {
     define('STRAY_ENV', (getenv('STRAY_ENV') === 'development' ? 'development' : 'production'));
 }
 
-require STRAY_PATH_VENDOR . 'ErrantWorks/StrayFw/run.php';
+require STRAY_PATH_VENDOR . 'autoload.php';
+
+use ErrantWorks\StrayFw\Bootstrap;
+
+Bootstrap::init();
+
+require STRAY_PATH_ROOT . 'init.php';
+
+Bootstrap::run();

@@ -6,4 +6,4 @@ use ErrantWorks\StrayFw\Bootstrap;
 // Bootstrap::registerLib('ErrantWorks\\Registry');
 
 // applications
-// Bootstrap::registerApp('BadassInc\\DemoSite');
+Bootstrap::registerApp('BadassInc\\Straytter');
