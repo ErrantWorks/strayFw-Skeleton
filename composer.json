@@ -1,0 +1,19 @@
+{
+    "name": "errant-works/stray-fw-skeleton",
+    "license": "New BSD License",
+    "type": "project",
+    "description": "Default skeleton for a strayFw new project.",
+    "autoload": {
+        "psr-0": {}
+    },
+    "require": {
+        "php": ">=5.4",
+        "errant-works/stray-fw": "~0.4",
+        "filp/whoops": "~1.0",
+        "maximebf/debugbar": "~1.9",
+        "psr/log": "~1.0",
+        "symfony/yaml": "~2.4",
+        "twig/twig": "~1.15"
+    },
+    "minimum-stability": "beta"
+}

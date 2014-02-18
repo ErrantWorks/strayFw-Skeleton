@@ -1,4 +1,4 @@
 settings.yml
-info.yml
-/web/robots.txt
 /tmp
+/vendor
+/composer.phar
