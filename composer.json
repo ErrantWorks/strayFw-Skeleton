@@ -15,5 +15,10 @@
         "symfony/yaml": "~2.4",
         "twig/twig": "~1.15"
     },
+    "scripts": {
+        "post-install-cmd": [
+            "cp vendor/errant-works/stray-fw/index.php web/index.php"
+        ]
+    },
     "minimum-stability": "beta"
 }
