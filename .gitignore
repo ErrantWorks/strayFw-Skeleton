@@ -2,3 +2,4 @@ settings.yml
 /tmp
 /vendor
 /composer.phar
+/composer.lock
