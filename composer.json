@@ -1,6 +1,6 @@
 {
-    "name": "errant-works/stray-fw-skeleton",
-    "license": "New BSD License",
+    "name": "rocknroot/stray-fw-skeleton",
+    "license": "BSD-3-Clause",
     "type": "project",
     "description": "Default skeleton for a strayFw new project.",
     "autoload": {
@@ -8,7 +8,7 @@
     },
     "require": {
         "php": ">=5.4",
-        "errant-works/stray-fw": "~0.4",
+        "rocknroot/stray-fw": "~0.4",
         "filp/whoops": "~1.0",
         "maximebf/debugbar": "~1.9",
         "psr/log": "~1.0",
@@ -17,8 +17,8 @@
     },
     "scripts": {
         "post-install-cmd": [
-            "cp vendor/errant-works/stray-fw/cli.php cli.php",
-            "cp vendor/errant-works/stray-fw/index.php web/index.php"
+            "cp vendor/rocknroot/stray-fw/cli.php cli.php",
+            "cp vendor/rocknroot/stray-fw/index.php web/index.php"
         ]
     },
     "minimum-stability": "beta"

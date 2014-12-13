@@ -1,9 +1,9 @@
 <?php
 
-use ErrantWorks\StrayFw\Bootstrap;
+use RocknRoot\StrayFw\Bootstrap;
 
 // plugins
-// Bootstrap::registerLib('ErrantWorks\\Registry');
+// Bootstrap::registerLib('RocknRoot\\Registry');
 
 // applications
 // Bootstrap::registerApp('BadassInc\\DemoSite');

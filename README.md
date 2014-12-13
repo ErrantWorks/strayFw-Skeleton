@@ -4,4 +4,4 @@ This is the skeleton for strayFw based projects. If you want to start a new proj
 
 Please, look at the read me file in the main repository:
 
-https://github.com/ErrantWorks/strayFw
+https://github.com/RocknRoot/strayFw
