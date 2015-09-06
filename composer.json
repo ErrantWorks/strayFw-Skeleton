@@ -10,6 +10,10 @@
         "php": ">=5.4",
         "rocknroot/stray-fw": "~0.4"
     },
+    "require-dev": {
+        "filp/whoops": "~1.1",
+        "maximebf/debugbar": "~1.10"
+    },
     "scripts": {
         "post-install-cmd": [
             "cp vendor/rocknroot/stray-fw/cli.php cli.php",
