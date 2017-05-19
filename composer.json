@@ -3,12 +3,13 @@
     "license": "BSD-3-Clause",
     "type": "project",
     "description": "Default skeleton for a strayFw new project.",
+    "keywords": [ "framework", "strayFw" ],
     "autoload": {
         "psr-0": {}
     },
     "require": {
-        "php": ">=5.5.9",
-        "rocknroot/stray-fw": "dev-master"
+        "php": ">=7.0",
+        "rocknroot/stray-fw": "~0.4"
     },
     "require-dev": {
         "filp/whoops": "^2.1",

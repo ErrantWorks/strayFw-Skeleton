@@ -1,7 +1,5 @@
 # strayFw
 
-This is the skeleton for strayFw based projects. If you want to start a new project, you need to download this one.
+This is the skeleton for strayFw based projects.
 
-Please, look at the read me file in the main repository:
-
-https://github.com/RocknRoot/strayFw
+See the README file in the main repository: https://github.com/RocknRoot/strayFw
