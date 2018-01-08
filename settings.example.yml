@@ -1,7 +1,5 @@
 tmp:
 
-domain_prefix:
-
 locale:
     default:
     hosts:
